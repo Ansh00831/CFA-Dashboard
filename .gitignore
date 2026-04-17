@@ -1,0 +1,11 @@
+# Database (Keep personal logs local!)
+study.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Mac OS
+.DS_Store
