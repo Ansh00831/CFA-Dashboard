@@ -28,8 +28,10 @@ TOPICS = {
             "Basics of multiple regression and assumptions",
             "Evaluating regression model fit, ANOVA, hypothesis testing",
             "Model misspecification — multicollinearity, heteroskedasticity, serial correlation",
+            "Extensions of Multiple regression",
             "Time-series analysis — ARMA, random walks, unit roots, cointegration",
             "Machine learning for investment analysis",
+            "Big Data Projects"
         ],
     },
     "Fixed_Income": {
@@ -44,7 +46,6 @@ TOPICS = {
     "Equity": {
         "label": "Equity Valuation", "priority": "MAINTAIN", "color": "#639922", "modules":[
             "Equity valuation applications and processes",
-            "Industry and company analysis",
             "Discounted dividend valuation — DDM, H-model, multi-stage",
             "Free cash flow valuation — FCFF and FCFE",
             "Market-based valuation — P/E, P/B, EV/EBITDA",
@@ -54,11 +55,9 @@ TOPICS = {
     },
     "Ethics": {
         "label": "Ethics & Professional Standards", "priority": "HIGH", "color": "#27500A", "modules":[
-            "Standards I–II — Professionalism, Capital Market Integrity",
-            "Standards III–IV — Duties to Clients and Employers",
-            "Standards V–VI — Investment Analysis, Conflicts of Interest",
-            "Standard VII — Responsibilities as CFA Member/Candidate",
-            "GIPS — fundamentals and composites",
+            "Code of Ethics and Standards of Professional Conduct",
+            "Guidance for Standards I–VII",
+            "Application of Code and Standards: Level II",
         ],
     },
     "Derivatives": {
@@ -69,16 +68,12 @@ TOPICS = {
     },
     "PM": {
         "label": "Portfolio Management", "priority": "VERY HIGH", "color": "#3C3489", "modules":[
-            "Overview of asset allocation — strategic vs tactical frameworks",
-            "Principles of asset allocation — MVO, Black-Litterman, liability-relative",
-            "Asset allocation with real-world constraints",
-            "Currency management and overlay strategies",
-            "Options strategies for equity portfolios",
-            "Derivatives in portfolio management — futures, swaps",
-            "Risk management framework and budgeting",
-            "Backtesting and simulation — look-ahead, survivorship, data-snooping biases",
             "Economics and investment markets — macro factor models",
-            "Exchange-traded funds — creation/redemption, premium/discount",
+            "Analysis of Active Portfolio Management — performance attribution, appraisal ratios",
+            "Exchange-Traded Funds - Mechanics and Application",
+            "Using Multifactor Model",
+            "Measuring and Managing Market Risk",
+            "Backtesting and simulation — look-ahead, survivorship, data-snooping biases",
         ],
     },
     "Economics": {
@@ -91,7 +86,8 @@ TOPICS = {
         "label": "Corporate Issuers", "priority": "MEDIUM", "color": "#639922", "modules":[
             "Dividends and share repurchases — signalling, irrelevance, residual model",
             "ESG factors in investment analysis",
-            "Corporate governance and agency issues",
+            "Cost of Capital: Advanced Topics",
+            "Corporate Restructuring",
         ],
     },
     "Alts": {
